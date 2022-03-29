@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "708650917689",
+    "firebase_url": "https://copyinsta-6321c.firebaseio.com",
+    "project_id": "copyinsta-6321c",
+    "storage_bucket": "copyinsta-6321c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:708650917689:android:035b8585885d81bf2b12e8",
+        "android_client_info": {
+          "package_name": "com.example.copyinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "708650917689-6pr9vnkbuctockgigb9ebhpm4hjnupom.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.copyinsta",
+            "certificate_hash": "1969fd6d3ccc493d8ac3cdf3968fe29fb26fecef"
+          }
+        },
+        {
+          "client_id": "708650917689-hrcgi0ppmmkkas7lh0ebfjdqsj5uc14c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPF83ETtHON4CFYmzW0KlbylqO1K1NQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "708650917689-hrcgi0ppmmkkas7lh0ebfjdqsj5uc14c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
